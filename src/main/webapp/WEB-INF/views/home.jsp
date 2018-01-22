@@ -57,7 +57,7 @@
                     <a class="" href="javascript:;"><i class="fa fa-plug" aria-hidden="true"></i><span> 基本元素</span></a>
                     <dl class="layui-nav-child">
                         <dd>
-                            <a href="javascript:;" kit-target data-options="{url:'${pageContext.request.contextPath}/test.html',icon:'&#xe6c6;',title:'表格',id:'1'}">
+                            <a href="javascript:;" kit-target data-options="{url:'${pageContext.request.contextPath}/user/table.do',icon:'&#xe6c6;',title:'表格',id:'1'}">
                                 <i class="layui-icon">&#xe6c6;</i><span> 表格</span></a>
                         </dd>
                         <dd>
